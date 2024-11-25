@@ -1,2 +1,2 @@
-# week1-odev2
-Kişisel Blog Sayfası
+# week1-odev3
+Rehber Sitesi
